@@ -1,10 +1,12 @@
- function App() {
+
+function App() {
+
+let count = 0;
   return (
-    <div>
- <h1>Hello world</h1>
- <p>heeeeee</p>
- </div>
+
   );
 }
 
 export default App;
+
+
